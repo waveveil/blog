@@ -5,7 +5,7 @@ updated: 2025-12-12
 pinned: true
 description: "pytorch训练的模型如何保存和加载"
 tags: [pytorch]
-image: "2.webp"
+image: "1.webp"
 category: "深度学习"
 licenseName: "MIT"
 author: "空柏"
