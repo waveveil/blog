@@ -9,6 +9,7 @@ import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeComponents from "rehype-components"; /* Render the custom directive content */
+import { rehypeExternalLinks } from "./src/plugins/rehype-external-links.mjs";
 import rehypeKatex from "rehype-katex";
 import rehypeSlug from "rehype-slug";
 import remarkDirective from "remark-directive"; /* Handle directives */
@@ -141,6 +142,7 @@ export default defineConfig({
 			rehypeKatex,
 			rehypeSlug,
 			rehypeMermaid,
+			[rehypeExternalLinks, { site: siteConfig.siteURL }],
 			[
 				rehypeComponents,
 				{
