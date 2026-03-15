@@ -2,7 +2,6 @@
 title: pytorch训练模型的保存和加载方式
 published: 2025-12-12
 updated: 2025-12-12
-pinned: true
 description: "pytorch训练的模型如何保存和加载"
 tags: [pytorch]
 image: "1.webp"
