@@ -2,6 +2,7 @@
 title: 多层感知机之正向传播、反向传播与计算图
 published: 2026-03-15
 updated: 2026-03-15
+pinned: true
 description: '深入浅出地解析神经网络训练的核心机制：正向传播、反向传播与计算图，并通过实例与矩阵运算揭示其高效计算的本质。'
 image: ''
 tags: [pytorch, 深度学习, 神经网络, 自动微分]

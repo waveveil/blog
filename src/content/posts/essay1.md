@@ -3,6 +3,8 @@ title: 日常随笔
 published: 2025-12-09
 updated: 2025-12-09
 description: '捣鼓了那么久的第一篇文章'
+encrypted: true
+password: '666666'
 image: ''
 tags: [树洞,建站]
 category: '随笔'
@@ -13,7 +15,7 @@ draft: false
 
 ::github{repo="Markfirst650/ai"}
 
-用这个格式 `::github{repo="markfirst650/ai"}`.
+用这个格式 `::github{repo="markfirst650/blog"}`.
 
 ```markdown
 ::github{repo="matsuzaka-yuki/Mizuki"}
