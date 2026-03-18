@@ -12,7 +12,17 @@ draft: false
 
 最近，我偶然看到一个关于语言学习的视频，它精准地戳中了许多学习者在不同领域都会遇到的瓶颈。视频的核心观点，源自语言学家斯蒂芬·克拉申（Stephen Krashen）提出的 **“可理解输入”（Comprehensible Input）** 理论。
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=290131832&bvid=BV1tf4y1s7NN&cid=328057877&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+    <iframe
+        src="//player.bilibili.com/player.html?isOutside=true&aid=290131832&bvid=BV1tf4y1s7NN&cid=328057877&p=1&autoplay=0"
+        title="Bilibili video"
+        style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
+        scrolling="no"
+        frameborder="no"
+        framespacing="0"
+        allowfullscreen="true"
+    ></iframe>
+</div>
 
 这个理论认为，语言习得的首要条件是**大量接触略高于自己当前水平、且能被理解的语言材料**。简单来说，就是“i+1”：你现有的水平是“i”，输入的材料是“i+1”，你能够借助语境、已知词汇或图像等线索，理解那多出来的“1”。没有足够的、可理解的优质输入，任何输出练习（如口语、写作）都如同在沙滩上建城堡，根基不稳。
 
