@@ -392,9 +392,9 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	mode: "meting", // 音乐播放器模式，可选 "local" 或 "meting"
 	meting_api:
 		"https://meting.solmount.top/api?server=:server&type=:type&id=:id&auth=:auth&r=:r", // Meting API 地址
-	id: "MBsRSg1ebrBtNr9bVVA01v", // 歌单ID
+	id: "0nEDtKrm8TM0C9IoZQNwyR", // 歌单ID
 	server: "subsonic", // 音乐源服务器。有的meting的api源支持更多平台,一般来说,netease=网易云音乐, tencent=QQ音乐, kugou=酷狗音乐, xiami=虾米音乐, baidu=百度音乐
-	type: "playlist", // 播单类型
+	type: "album", // 播单类型
 };
 
 export const footerConfig: FooterConfig = {
