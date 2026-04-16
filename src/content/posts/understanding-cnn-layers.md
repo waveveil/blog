@@ -52,7 +52,7 @@ output = np.sum(input_image * kernel)  # 结果为 0，表示该区域没有强�
 ```mermaid
 graph TD
     A[原始图像] --> B[卷积层 1]
-    subgraph “特征提取的层次化过程”
+    subgraph "特征提取的层次化过程"
         B -->|提取边缘/纹理| C[特征图 1]
         C --> D[卷积层 2]
         D -->|组合成简单形状| E[特征图 2]
