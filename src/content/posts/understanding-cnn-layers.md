@@ -50,7 +50,7 @@ output = np.sum(input_image * kernel)  # 结果为 0，表示该区域没有强�
   最终，高层卷积层能捕捉到近乎语义的概念（如“猫脸”、“车身”）。
 
 ```mermaid
-graph TD
+graph LR
     A[原始图像] --> B[卷积层 1]
     subgraph "特征提取的层次化过程"
         B -->|提取边缘/纹理| C[特征图 1]
