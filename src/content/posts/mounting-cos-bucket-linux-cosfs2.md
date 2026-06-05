@@ -118,7 +118,7 @@ file-cache:
   max-size-mb: 1024                     # 缓存最大 1 GB（根据需求调整）
 file-system:
   temp-dir: "/data/cosfs2-1.1.0.81/temp"         # 临时文件目录
-  file-options: "allow_other"           # 允许其他用户读写
+  fuse-options: "allow_other"           # 允许其他用户读写
 foreground: false                       # 后台守护进程运行
 ```
 
