@@ -17,7 +17,7 @@ draft: false
 以meting的项目为例
 :::
 
-```Dockerfile
+```Docker
 #使用官方的node.js作为基础镜像
 FROM node:23-alpine3.20
 
